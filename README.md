@@ -1,6 +1,6 @@
 ## Project Directory
 
-This is the project directory for CSCI-3081.
+This is the project directory for CSCI-3081, Program Design and Development. It implements an interactive image modifying tool with drawing and filtering functions. All codes and test are included in [src](https://github.com/yve-syyan/Image_Filtering/tree/master/src).
 
 ### CSE Lab Machines (Supported)
 
